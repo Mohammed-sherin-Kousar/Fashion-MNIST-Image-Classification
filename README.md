@@ -32,6 +32,17 @@ To build and evaluate a CNN model capable of accurately classifying grayscale cl
 * Evaluated model performance using **Accuracy, Precision, Recall, F1-Score, and Confusion Matrix**.
 * Visualized training and validation performance.
 
+  ##  Model
+
+* Built a **Convolutional Neural Network (CNN)** using TensorFlow and Keras.
+* Used **Conv2D and MaxPooling** layers for image feature extraction.
+* Used **Flatten and Dense layers** for classification.
+* Applied **L2 regularization** to help reduce overfitting.
+* Applied **Dropout (50%)** for regularization.
+* Developed a second CNN **without Dropout** to compare model performance.
+* Used **Softmax** output for classification into 10 Fashion-MNIST categories.
+
+
 ##  My Role
 
 I independently handled the **complete project implementation**, including data preprocessing, augmentation, CNN architecture development, regularization, model training, evaluation, comparison, visualization, and documentation.
