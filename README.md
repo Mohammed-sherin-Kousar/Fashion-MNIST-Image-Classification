@@ -32,7 +32,7 @@ To build and evaluate a CNN model capable of accurately classifying grayscale cl
 * Evaluated model performance using **Accuracy, Precision, Recall, F1-Score, and Confusion Matrix**.
 * Visualized training and validation performance.
 
-  ##  Model
+##  Model
 
 * Built a **Convolutional Neural Network (CNN)** using TensorFlow and Keras.
 * Used **Conv2D and MaxPooling** layers for image feature extraction.
