@@ -36,6 +36,15 @@ To build and evaluate a CNN model capable of accurately classifying grayscale cl
 
 I independently handled the **complete project implementation**, including data preprocessing, augmentation, CNN architecture development, regularization, model training, evaluation, comparison, visualization, and documentation.
 
+##  Results
+
+* Developed and trained CNN models with and without Dropout.
+* Evaluated the models on the Fashion-MNIST test dataset.
+* Compared validation and test performance between both models.
+* Evaluated the final model using Accuracy, Precision, Recall, F1-Score, and a Confusion Matrix.
+* Visualized training/validation accuracy and loss to analyze model performance.
+
+
 ##  Dataset
 
 **Fashion-MNIST** contains **70,000 grayscale images (28×28 pixels)** across 10 categories:
